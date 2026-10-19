@@ -1,0 +1,17 @@
+# Секреты - НЕ публиковать
+Test/auth.json
+
+# Отчёты Allure
+allure-results/
+allure-report/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
